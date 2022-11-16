@@ -16,12 +16,12 @@
         {
             "supercategory": "None",
             "id": 1,
-            "name": "abw"
+            "name": 1
         },
         {
             "supercategory": "None",
             "id": 2,
-            "name": "pbw"
+            "name": 2
         }
     ],
     "annotations": [
